@@ -22,7 +22,7 @@ public class Primes {
                 }
             }
         }
-        System.out.println("Primes up to " + n + ":");
+        System.out.println("Prime numbers up to " + n + ":");
         int count = 0;
         for (int i = 0; i < primes.length; i++) {
             if (primes[i]) {
